@@ -3,3 +3,7 @@ Estrutura base de uma aplicação React utilizando ferramentas como Webpack, Bab
 
 # Instalação
 Comando: ``npm install`` ou ``yarn install``
+
+## Start
+yarn webpack serve --- http://localhost:8080/
+
